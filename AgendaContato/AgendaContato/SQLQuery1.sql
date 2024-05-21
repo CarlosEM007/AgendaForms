@@ -1,0 +1,16 @@
+﻿INSERT INTO [dbo].[Contatos] ([Id], [Name], [Company], [Telephone], [Email], [Client], [LastCall]) VALUES
+(1, 'Elon Musk', 'SpaceX', '123-456-7890', 'elon.musk@spacex.com', 1, '2023-05-21'),
+(2, 'Jeff Bezos', 'Amazon', '123-456-7891', 'jeff.bezos@amazon.com', 1, '2023-05-21'),
+(3, 'Bill Gates', 'Microsoft', '123-456-7892', 'bill.gates@microsoft.com', 1, '2023-05-21'),
+(4, 'Luciano Hang', 'Havan', '123-456-7893', 'luciano.hang@havan.com', 0, '2023-05-21'),
+(5, 'Ada Lovelace', 'Analytical Machines', '123-456-7894', 'ada.lovelace@analyticalmachines.com', 0, '2023-05-21'),
+(6, 'Alan Turing', 'Enigma Solutions', '123-456-7895', 'alan.turing@enigmasolutions.com', 0, '2023-05-21'),
+(7, 'Steve Jobs', 'Pixar', '123-456-7896', 'steve.jobs@pixar.com', 1, '2023-05-21'),
+(8, 'Mark Zuckerberg', 'Facebook', '123-456-7897', 'mark.zuckerberg@facebook.com', 1, '2023-05-21'),
+(9, 'Larry Page', 'Google', '123-456-7898', 'larry.page@google.com', 1, '2023-05-21'),
+(10, 'Sergey Brin', 'Google', '123-456-7899', 'sergey.brin@google.com', 1, '2023-05-21'),
+(11, 'Linus Torvalds', 'Open Source Initiative', '123-456-7800', 'linus.torvalds@opensource.org', 0, '2023-05-21'),
+(12, 'Tim Berners-Lee', 'W3C', '123-456-7801', 'tim.berners-lee@w3c.org', 0, '2023-05-21'),
+(13, 'Sheryl Sandberg', 'Meta', '123-456-7802', 'sheryl.sandberg@meta.com', 1, '2023-05-21'),
+(14, 'Sundar Pichai', 'Alphabet Inc.', '123-456-7803', 'sundar.pichai@alphabet.com', 1, '2023-05-21'),
+(15, 'Satya Nadella', 'Microsoft', '123-456-7804', 'satya.nadella@microsoft.com', 1, '2023-05-21');
